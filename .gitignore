@@ -1,8 +1,8 @@
-# Ignore the Model file
-model/
+# # Ignore the Model file
+# model/
 
 # Ignore checkpoints
 .ipynb_checkpoints/
 
 # Ignore venv
-venv
+venvmodel/data/.ipynb_checkpoints/malicious_phish-checkpoint.csv
